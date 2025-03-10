@@ -1,0 +1,6 @@
+com\example\process\single\players\Initiator.class
+com\example\process\multiple\InitiatorProcessCommunication.class
+com\example\process\single\players\Receiver.class
+com\example\process\multiple\ReceiverProcessCommunication.class
+com\example\message\Message.class
+com\example\process\single\SingleProcessCommunication.class
