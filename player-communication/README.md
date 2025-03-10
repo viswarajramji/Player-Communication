@@ -17,8 +17,8 @@ Before running the project, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/viswarajramji/Player-Communication.git
+   cd Player-Communication
    ```
 2. Run the script for triggering the execution.
    ```bash
